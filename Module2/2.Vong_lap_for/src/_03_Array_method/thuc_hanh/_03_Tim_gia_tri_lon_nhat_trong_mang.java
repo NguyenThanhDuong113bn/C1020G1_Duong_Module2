@@ -25,7 +25,7 @@ public class _03_Tim_gia_tri_lon_nhat_trong_mang {
         int max = array[0];
         int index = 1;
         for (int j = 0; j < array.length; j++) {
-            if (array[j] > max) {
+            if (array[j] < max) {
                 max = array[j];
                 index = j + 1;
             }

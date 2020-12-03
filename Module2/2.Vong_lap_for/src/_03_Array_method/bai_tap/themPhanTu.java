@@ -2,7 +2,7 @@ package _03_Array_method.bai_tap;
 
 import java.util.Scanner;
 
-public class ThemPhanTu {
+public class themPhanTu {
     public static void main(String[] args) {
         int size;
         int[] array;
