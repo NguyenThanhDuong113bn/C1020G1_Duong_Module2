@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a3e45a-a791-4e90-8fd5-c9c6f1101e4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap/thuchanh/Kiem_tra_so_nguyen_to.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap/thuchanh/Menu_cho_ung_dung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap/thuchanh/Tim_uoc_so_chung_lon_nhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap/thuchanh/Ung_dung_tinh_tien_lai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap1/Hien_thi_20_so_nguyen_to_dau_tien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap1/Hien_thi_cac_loai_hinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_02_Loop/baitap1/Hien_thi_cac_so_nguyen_to_nho_hon_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai_tap/deletePhanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai_tap/themPhanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/_01_dao_nguoc_cac_phantu_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/_02_Tim_gia_tri_trong_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/_03_Tim_gia_tri_lon_nhat_trong_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/_04_Chuyen_doi_nhiet_do.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/_05_Tim_gia_tri_nho_nhat_trong_mang_su_dung_phuong_thuc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.Java/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1l3zRBKuTgmGwB9xPTPn1U3Prai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a3e45a-a791-4e90-8fd5-c9c6f1101e4f" name="Default Changelist" comment="" />
+      <created>1606840551124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606840551124</updated>
+      <workItem from="1606840552419" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="140" key="FileChooserDialogImpl" timestamp="1606840751943">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="140" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1606840751943" />
+  </component>
+</project>
